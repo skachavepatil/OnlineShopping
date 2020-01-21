@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CustomerService
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: kachavepatil_s
+Implementation-Vendor-Id: com.cs
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CustomerService
+Created-By: Maven Integration for Eclipse
+
